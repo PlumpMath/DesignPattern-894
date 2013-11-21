@@ -1,0 +1,4 @@
+E:\csworkspace\DesignPattern\CreationalPatterns.AbstractFactory\bin\Debug\CreationalPatterns.AbstractFactory.dll
+E:\csworkspace\DesignPattern\CreationalPatterns.AbstractFactory\bin\Debug\CreationalPatterns.AbstractFactory.pdb
+E:\csworkspace\DesignPattern\CreationalPatterns.AbstractFactory\obj\Debug\CreationalPatterns.AbstractFactory.dll
+E:\csworkspace\DesignPattern\CreationalPatterns.AbstractFactory\obj\Debug\CreationalPatterns.AbstractFactory.pdb

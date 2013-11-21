@@ -1,0 +1,7 @@
+E:\csworkspace\DesignPattern\DesignPattern\obj\x86\Debug\DesignPattern.csprojResolveAssemblyReference.cache
+E:\csworkspace\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe
+E:\csworkspace\DesignPattern\DesignPattern\bin\Debug\DesignPattern.pdb
+E:\csworkspace\DesignPattern\DesignPattern\bin\Debug\CreationalPatterns.AbstractFactory.dll
+E:\csworkspace\DesignPattern\DesignPattern\bin\Debug\CreationalPatterns.AbstractFactory.pdb
+E:\csworkspace\DesignPattern\DesignPattern\obj\x86\Debug\DesignPattern.exe
+E:\csworkspace\DesignPattern\DesignPattern\obj\x86\Debug\DesignPattern.pdb
